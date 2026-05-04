@@ -20,16 +20,16 @@ I provide senior-level expertise as a **fully remote B2B contractor** from Costa
 
 
 ## 🛠️ Tech Stack & Skills
-- **Programming:** MATLAB, Simulink, Stateflow, Python (Automation), C/C++, Java, Dart/Flutter.
-- **Safety & Process:** ISO 26262 (ASIL B), ASPICE, V-Model, AUTOSAR, Requirements Engineering, Traceability Management, Agile Methodologies.
-- **Technical Writing:** Diátaxis Framework, Markdown, LaTeX, Documentation-as-Code.
-- **Verification & Quality**: MiL/SiL/Unit Testing (Tessy, TPT) | Simulink Test | MISRA/MAAB | Code Reviews
-- **Tools & ALM:** Git, Bitbucket, Jira/Confluence (Atlassian Stack), PTC Windchill, Surround SCM, VS Code, Eclipse, CANoe.
+- **Programming:** MATLAB | Simulink | Stateflow | Python (Automation) | C/C++ | Java | Dart/Flutter.
+- **Safety & Process:** ISO 26262 (ASIL B) | ASPICE | V-Model | AUTOSAR | Requirements Engineering | Traceability Management | Agile Methodologies.
+- **Technical Writing:** Diátaxis Framework | Markdown | LaTeX | Documentation-as-Code.
+- **Verification & Quality**: MiL/SiL/Unit Testing (Tessy | TPT) | Simulink Test | MISRA/MAAB | Code Reviews
+- **Tools & ALM:** Git | Bitbucket | Jira/Confluence (Atlassian Stack) | PTC Windchill | Surround SCM | VS Code | Eclipse | CANoe.
 
 
 ## 📂 Portfolio Showcase (Technical Writing & Engineering)
 
-### 🧫 [Cell Growth Simulation](https://github.com/katrintalkenberger/cell-growth-simulation))
+### 🧫 [Cell Growth Simulation](https://github.com/katrintalkenberger/cell-growth-simulation)
 **MATLAB | Python | Diátaxis**
 Mathematical modeling of biological systems with a full documentation suite. Includes a Python automation tool to visualize simulation results.
 
