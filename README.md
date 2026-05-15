@@ -34,7 +34,7 @@ I provide senior-level expertise as a **fully remote B2B contractor** from Costa
 Mathematical modeling of biological systems with a full documentation suite. Includes a Python automation tool to visualize simulation results.
 
 
-### 🚗 [ISO 26262 ARXML Parser](./iso26262-arxml-parser)
+### 🚗 [ISO 26262 ARXML Parser](https://github.com/katrintalkenberger/iso26262-arxml-parser)
 **Python | Functional Safety | Technical Authoring**
 Demystifying ASIL B and MBD for a non-technical audience. Features a custom Python-based ARXML parser to demonstrate data extraction in safety-critical environments.
 
