@@ -39,11 +39,6 @@ Mathematical modeling of biological systems with a full documentation suite. Inc
 Demystifying ASIL B and MBD for a non-technical audience. Features a custom Python-based ARXML parser to demonstrate data extraction in safety-critical environments.
 
 
-### 💻 [The Pointer Jungle](./pointer-jungle)
-**C++ | OOP | Memory Management**
-A deep dive into modern C++ memory management and Object-Oriented Design, simplifying the "scary" parts of low-level programming.
-
-
 ## 📫 Connect with me
 - **LinkedIn:** [www.linkedin.com/in/katrintalkenberger](https://www.linkedin.com/in/katrintalkenberger)
 - **Status:** Available for B2B contracts starting June 2026.
