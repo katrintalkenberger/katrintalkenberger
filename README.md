@@ -1,7 +1,7 @@
 # Ph.D. Mathematician | Senior Software Engineer | Technical Author
 
 I bridge the gap between complex engineering and clear, concise, and accurate documentation. 
-With 8+ years of experience in the automotive industry (ISO 26262 / MBD), I specialize in making high-stakes technology understandable and engineering workflows 80% more efficient.
+With 8+ years of experience in the automotive industry (ISO 26262 / MBD),I specialize in turning high-stakes, complex technology into documentation and tooling that measurably speeds up engineering workflows.
 
 
 ## 🦄 The Unicorn Profile: Where PhD Precision Meets Automotive Rigor
@@ -16,7 +16,7 @@ My background combines three domains that rarely overlap, providing a unique per
 I provide senior-level expertise as a **fully remote B2B contractor** from Costa Rica.
 - **Time Zone Alignment:** Seamless collaboration with US-based teams (aligned with EST/CST).
 - **Zero Bureaucracy:** No US visa required (B2B/Independent Contractor model).
-- **High-Security Infrastructure:** Professional remote setup with hardware-firewall (ISO 27001-aligned), redundant high-speed 5G backup, and UPS power buffering for 100% uptime.
+- **High-Security Infrastructure:** Professional remote setup with hardware-firewall (ISO 27001-aligned), redundant high-speed 5G backup, and UPS power buffering to prevent connectivity interruptions.
 
 
 ## 🛠️ Tech Stack & Skills
@@ -41,4 +41,4 @@ Demystifying ASIL B and MBD for a non-technical audience. Features a custom Pyth
 
 ## 📫 Connect with me
 - **LinkedIn:** [www.linkedin.com/in/katrintalkenberger](https://www.linkedin.com/in/katrintalkenberger)
-- **Status:** Available for B2B contracts starting June 2026.
+- **Status:** Available for B2B contracts now.
