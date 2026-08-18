@@ -13,7 +13,7 @@ My background combines three domains that rarely overlap, providing a unique per
 
 
 ## 🌎 Remote & Logistics (CST/EST Time Zone)
-I provide senior-level expertise as a **fully remote B2B contractor** from Costa Rica.
+I provide senior-level expertise as a **fully remote B2B contractor**, based in the CST/EST time zone.
 - **Time Zone Alignment:** Seamless collaboration with US-based teams (aligned with EST/CST).
 - **Zero Bureaucracy:** No US visa required (B2B/Independent Contractor model).
 - **High-Security Infrastructure:** Professional remote setup with hardware-firewall (ISO 27001-aligned), redundant high-speed 5G backup, and UPS power buffering to prevent connectivity interruptions.
