@@ -1,44 +1,54 @@
-# Ph.D. Mathematician | Senior Software Engineer | Technical Author
+# Katrin Talkenberger, Ph.D.
 
-I bridge the gap between complex engineering and clear, concise, and accurate documentation. 
-With 8+ years of experience in the automotive industry (ISO 26262 / MBD),I specialize in turning high-stakes, complex technology into documentation and tooling that measurably speeds up engineering workflows.
+**Ph.D. | Senior Software Engineer | Technical Author**
 
+I write technical documentation as an engineer who has built and verified the systems it describes. I hold a PhD in mathematics and have worked for almost eight years on safety-critical automotive software under ISO 26262, with a focus on model-based development.
 
-## 🦄 The Unicorn Profile: Where PhD Precision Meets Automotive Rigor
-My background combines three domains that rarely overlap, providing a unique perspective for high-stakes engineering projects:
+## 🌟 What I combine
 
-* **Academic Depth (PhD Mathematician):** I don’t just use algorithms; I understand the underlying mechanics. My PhD training allows me to deconstruct complex systems and translate them into rigorous mathematical models.
-* **Industrial Hardening (8+ Years Automotive):** I have spent nearly a decade in one of the world's most regulated industries. I know how to deliver software that must not fail (ISO 26262 / ASIL B) and how to navigate the complexities of Tier-1 and OEM toolchains.
-* **The Bridge (Technical Authoring):** I possess the rare ability to be a "Translator." I can talk to deep-level developers in C++ and Python, then pivot to authoring high-level strategic documentation that ensures process compliance and stakeholder alignment.
+| | |
+|---|---|
+| **Academic training** | PhD in mathematics (modeling and simulation). I apply the working methods of the discipline: structured problem analysis, precise definitions and rigorous argument. |
+| **Engineering** | Almost eight years in automotive software under ISO 26262 (ASIL B) and ASPICE: model-based development, tool development and process automation, verification and requirements traceability. |
+| **Documentation** | Scientific publications and PhD thesis. Safety documentation across the ISO 26262 lifecycle, including contributions to a Technical Safety Concept. Process and toolchain documentation. Software documentation for developers. Research proposal and feasibility documentation for an AI sensor system. |
 
+## 📂 Portfolio Showcase
 
-## 🌎 Remote & Logistics (CST/EST Time Zone)
-I provide senior-level expertise as a **fully remote B2B contractor**, based in the CST/EST time zone.
-- **Time Zone Alignment:** Seamless collaboration with US-based teams (aligned with EST/CST).
-- **Zero Bureaucracy:** No US visa required (B2B/Independent Contractor model).
-- **High-Security Infrastructure:** Professional remote setup with hardware-firewall (ISO 27001-aligned), redundant high-speed 5G backup, and UPS power buffering to prevent connectivity interruptions.
+📖 **`cantools` documentation**<br>
+Restructured docs of the open-source CAN/DBC library: tutorial, how-to guides, reference and explanation, plus an audit of the original documentation.<br>
+`Python` · `Sphinx` · `Read the Docs` · `Diátaxis`<br>
+[Documentation](https://cantools-diataxis.readthedocs.io) · [Audit](https://gist.github.com/katrintalkenberger/315e42e74380791f21c392e7aa5ca579) · [Repository](https://github.com/katrintalkenberger/cantools)
 
+🚗 **ISO 26262 ARXML Parser**<br>
+ASIL B and MBD explained for a non-technical audience, with a Python ARXML parser as a worked example.<br>
+`Python` · `ISO 26262` · `ARXML` · `Technical Authoring`<br>
+[Repository](https://github.com/katrintalkenberger/iso26262-arxml-parser)
+
+🧫 **Cell growth simulation**<br>
+Mathematical model of biological systems with a full documentation suite and a Python tool to visualize results.<br>
+`MATLAB` · `Python` · `Diátaxis`<br>
+[Repository](https://github.com/katrintalkenberger/cell-growth-simulation)
 
 ## 🛠️ Tech Stack & Skills
-- **Programming:** MATLAB | Simulink | Stateflow | Python (Automation) | C/C++ | Java | Dart/Flutter.
-- **Safety & Process:** ISO 26262 (ASIL B) | ASPICE | V-Model | AUTOSAR | Requirements Engineering | Traceability Management | Agile Methodologies.
-- **Technical Writing:** Diátaxis Framework | Markdown | LaTeX | Documentation-as-Code.
-- **Verification & Quality**: MiL/SiL/Unit Testing (Tessy | TPT) | Simulink Test | MISRA/MAAB | Code Reviews
-- **Tools & ALM:** Git | Bitbucket | Jira/Confluence (Atlassian Stack) | PTC Windchill | Surround SCM | VS Code | Eclipse | CANoe.
 
+**Model-Based Design:** MATLAB | Simulink | Stateflow | TargetLink | DaVinci Developer | Toolstrip Customization
 
-## 📂 Portfolio Showcase (Technical Writing & Engineering)
+**Programming:** Python (Automation) | C/C++ | Java | Dart/Flutter | Algorithm Design
 
-### 🧫 [Cell Growth Simulation](https://github.com/katrintalkenberger/cell-growth-simulation)
-**MATLAB | Python | Diátaxis**
-Mathematical modeling of biological systems with a full documentation suite. Includes a Python automation tool to visualize simulation results.
+**Verification & Test:** MiL/SiL Simulation | Model Testing | Unit Testing | TPT | Tessy | MISRA/MAAB Compliance | Code Reviews
 
+**Documentation & DX:** Technical Writing | Docs-as-Code (Markdown) | Diátaxis Framework | Code Documentation | Confluence | Mermaid.js
 
-### 🚗 [ISO 26262 ARXML Parser](https://github.com/katrintalkenberger/iso26262-arxml-parser)
-**Python | Functional Safety | Technical Authoring**
-Demystifying ASIL B and MBD for a non-technical audience. Features a custom Python-based ARXML parser to demonstrate data extraction in safety-critical environments.
+**Requirements & Architecture:** Requirements Engineering | Traceability | UML | System Architecture
 
+**Safety & Standards:** ISO 26262 (ASIL B) | AUTOSAR | ASPICE | V-Model
 
-## 📫 Connect with me
-- **LinkedIn:** [www.linkedin.com/in/katrintalkenberger](https://www.linkedin.com/in/katrintalkenberger)
-- **Status:** Available for B2B contracts now.
+**Lifecycle & DevOps:** PTC Windchill | DOORS | ReQtest | Jira | Git (GitHub, Bitbucket) | CI/CD Basics | Agile (Scrum) | CANoe
+
+## 🌎 Availability
+
+Fully remote, independent B2B contractor in the CST/EST time zone, overlapping with US working hours. **Available for B2B contracts now.**
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/katrintalkenberger/)
